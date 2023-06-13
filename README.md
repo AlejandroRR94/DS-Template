@@ -9,7 +9,7 @@ To use it:
 
 3. Open the terminal and execute:  cookiecutter https://github.com/AlejandroRR94/DS-Template.git
 4. Cookiecutter will ask for the following information and replace it with default values if it is not provided:
-      "project_name": "default_name"
-      "description": "short description"
-      "author": "Dr. Unfathomable"
-      "email": "not-a-real-mail@mail.com"
+* "project_name": "default_name"
+* "description": "short description"
+* "author": "Dr. Unfathomable"
+* "email": "not-a-real-mail@mail.com"
